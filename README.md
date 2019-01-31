@@ -11,3 +11,6 @@
 Here is some new text I am adding from the shell to update the README file.
 
 Changes through github now which is remote and will pull down to my local respository
+
+Changes now that it is in Rstudio in new project.
+**bold text**
